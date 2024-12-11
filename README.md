@@ -1,3 +1,9 @@
+
+
+- [GitHub Repository](https://github.com/Bonli9/CS643-Wine-Prediction.git)
+- [DockerHub Repository](https://hub.docker.com/repository/docker/rpaulin/wine-quality-prediction)
+
+
 # Wine Quality Prediction: Setup Guide
 
 ## 1. **Training Setup on AWS S3**
